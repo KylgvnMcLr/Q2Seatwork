@@ -1,0 +1,32 @@
+h1{
+font-family: Tahoma;
+letter-spacing: 1px;
+text-transform: uppercase;
+text-align: center;
+}
+img{
+	border-style: solid;
+	border-color: #f7f5bc;
+}
+p{
+	font-family: Alice;
+	text-indent: 25px;
+	color: black;
+	float: center
+}
+body{
+	background-color:#f1ee8e;
+}
+
+}
+small{
+	color: white;
+}
+.Div2{
+	background-color:#FDA50F ;
+	padding: 2px 12px 2px;
+}
+.Div1{
+	background-color:#FDA50F ;
+	padding: 10px 50px 10px;
+}
