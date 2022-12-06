@@ -6,7 +6,11 @@ text-align: center;
 }
 img{
 	border-style: solid;
-	border-color: #f7f5bc;
+	border-color: #E3CD81FF;
+	border-radius:50px;
+	width: 300px;height: 300px;
+    padding:20px;
+    opacity: .75;
 }
 p{
 	font-family: Alice;
@@ -15,7 +19,7 @@ p{
 	float: center
 }
 body{
-	background-color:#f1ee8e;
+	background-color:#E3CD81FF;
 }
 
 }
@@ -23,10 +27,10 @@ small{
 	color: white;
 }
 .Div2{
-	background-color:#FDA50F ;
+	background-color:#FFE77AFF ;
 	padding: 2px 12px 2px;
 }
 .Div1{
-	background-color:#FDA50F ;
+	background-color:#FFE77AFF ;
 	padding: 10px 50px 10px;
 }
